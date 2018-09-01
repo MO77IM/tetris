@@ -1,8 +1,4 @@
-GITHUH
-
-
-
-`	
-12345678
-
-a branch merge test
+<<<<<<< HEAd
+feature-A
+fix-B
+>>>>>>> fix-B
